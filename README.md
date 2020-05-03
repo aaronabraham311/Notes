@@ -7,3 +7,10 @@ This is my collection of handwritten notes that I used to prepare for midterms/f
 - MATH 135: Algebra for Honors Mathematics
 - ECE 105: Classical Mechanics
 - CS 137: Programming Principles
+
+## 1B
+- MATH 119: Calculus 2 For Engineers
+- ECE 106: Electricity and Magnetism
+- ECE 140: Linear Circuits
+- ECE 124: Digital Circuits
+- CS 138: Introduction to Data Abstraction and Implementation
