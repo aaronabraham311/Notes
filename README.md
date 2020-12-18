@@ -14,3 +14,11 @@ This is my collection of handwritten notes that I used to prepare for midterms/f
 - ECE 140: Linear Circuits
 - ECE 124: Digital Circuits
 - CS 138: Introduction to Data Abstraction and Implementation
+
+## 2A
+- MATH 237: Calculus 3 for Honours Mathematics (Statistics minor requirement)
+- SE 212: Logic and Computation
+- CS 241: Foundations of Sequential Programs
+- CHE 102: Chemistry for Engineers
+- ECE 222: Digital Computers
+- STAT 206: Statistics for Software Engineering
