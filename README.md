@@ -22,3 +22,11 @@ This is my collection of handwritten notes that I used to prepare for midterms/f
 - CHE 102: Chemistry for Engineers
 - ECE 222: Digital Computers
 - STAT 206: Statistics for Software Engineering
+
+## 2B
+- STAT 330: Mathematical Statistics (Statistics minor requirement)
+- CS 240: Data Structures and Data Management
+- CS 247: Software Engineering Principles
+- CS 348: Introduction to Database Management
+- MATH 239: Introduction to Combinatorics
+- ECE 192: Engineering Economics and Impact on Society
