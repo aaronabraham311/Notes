@@ -30,3 +30,11 @@ This is my collection of handwritten notes that I used to prepare for midterms/f
 - CS 348: Introduction to Database Management
 - MATH 239: Introduction to Combinatorics
 - ECE 192: Engineering Economics and Impact on Society
+
+## 3A
+- SE 350: Operating Systems
+- CS 341: Algorithms
+- SE 465: Software Testing and Quality Assurance
+- MATH 213: Signals, Systems and Differential Equations
+- CS 349: User Interfaces
+- STAT 331: Applied Linear Models (Statistics minor requirement)
