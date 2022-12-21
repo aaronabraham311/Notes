@@ -38,3 +38,10 @@ This is my collection of handwritten notes that I used to prepare for midterms/f
 - MATH 213: Signals, Systems and Differential Equations
 - CS 349: User Interfaces
 - STAT 331: Applied Linear Models (Statistics minor requirement)
+
+## 3B:
+- SE 380: Introduction to Feedback Controls
+- CS 343: Concurrent and Parallel Programming
+- ECE 358: Computer Networks
+- SE 464: Software Design and Architecture
+- STAT 341: Computational Statistics and Data Analysis (Statistics minor requirement)
