@@ -45,3 +45,6 @@ This is my collection of handwritten notes that I used to prepare for midterms/f
 - ECE 358: Computer Networks
 - SE 464: Software Design and Architecture
 - STAT 341: Computational Statistics and Data Analysis (Statistics minor requirement)
+
+## 4A:
+- Cryptography (UW equivalent - ECE 409)
