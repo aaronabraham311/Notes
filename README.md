@@ -48,3 +48,9 @@ This is my collection of handwritten notes that I used to prepare for midterms/f
 
 ## 4A:
 - Cryptography (UW equivalent - ECE 409)
+
+## 4B:
+- CS 451: Data-intensive Distributed Computing
+- CS 445: Software Requirements Specification and Analysis
+- STAT 332: Experimental Design and Sampling (Statistics minor requirement)
+- STAT 443: Forecasting (Statistics minor requirement)
